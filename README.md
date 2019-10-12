@@ -1,5 +1,4 @@
-# Xcode-theme-GitHub-light
-#### Light theme for Xcode, inspired by GitHub.com
+### Light theme for Xcode, inspired by GitHub.com
 
 <img src="https://github.com/BastienBoy/Xcode-light-theme-github-style/blob/master/PreviewImage.png" width="550">
 
